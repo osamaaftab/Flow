@@ -16,7 +16,6 @@
         android:layout_gravity="center"
         app:border_color="@android:color/transparent"
         app:border_width="2dp"
-        app:centercircle_diammterer="1"
         app:draw_anticlockwise="false"
         app:enable_touch="false"
         app:progress_color="@color/color_100"

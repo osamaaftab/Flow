@@ -487,7 +487,7 @@ public class CircularImageView extends AppCompatImageView {
 
         mDrawableRadius = Math.min(mDrawableRect.height() / 2, mDrawableRect.width() / 2);
 
-        if (mInnrCircleDiammeter > 1) mInnrCircleDiammeter = 1;
+        if (mInnrCircleDiammeter > 1||mInnrCircleDiammeter < 1) mInnrCircleDiammeter = 1;
 
         mDrawableRadius = mDrawableRadius * mInnrCircleDiammeter;
 
