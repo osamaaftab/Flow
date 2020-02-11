@@ -32,22 +32,23 @@
 20-->/Users/tosama/Imageload/app/src/main/AndroidManifest.xml:9:9-54
 21        android:supportsRtl="true"
 21-->/Users/tosama/Imageload/app/src/main/AndroidManifest.xml:10:9-35
-22        android:theme="@style/AppTheme" >
-22-->/Users/tosama/Imageload/app/src/main/AndroidManifest.xml:11:9-40
-23        <activity android:name="com.osamaaftab.imageload.MainActivity" >
-23-->/Users/tosama/Imageload/app/src/main/AndroidManifest.xml:12:9-18:20
-23-->/Users/tosama/Imageload/app/src/main/AndroidManifest.xml:12:19-47
-24            <intent-filter>
-24-->/Users/tosama/Imageload/app/src/main/AndroidManifest.xml:13:13-17:29
-25                <action android:name="android.intent.action.MAIN" />
-25-->/Users/tosama/Imageload/app/src/main/AndroidManifest.xml:14:17-69
-25-->/Users/tosama/Imageload/app/src/main/AndroidManifest.xml:14:25-66
-26
-27                <category android:name="android.intent.category.LAUNCHER" />
-27-->/Users/tosama/Imageload/app/src/main/AndroidManifest.xml:16:17-77
-27-->/Users/tosama/Imageload/app/src/main/AndroidManifest.xml:16:27-74
-28            </intent-filter>
-29        </activity>
-30    </application>
-31
-32</manifest>
+22        android:testOnly="true"
+23        android:theme="@style/AppTheme" >
+23-->/Users/tosama/Imageload/app/src/main/AndroidManifest.xml:11:9-40
+24        <activity android:name="com.osamaaftab.imageload.MainActivity" >
+24-->/Users/tosama/Imageload/app/src/main/AndroidManifest.xml:12:9-18:20
+24-->/Users/tosama/Imageload/app/src/main/AndroidManifest.xml:12:19-47
+25            <intent-filter>
+25-->/Users/tosama/Imageload/app/src/main/AndroidManifest.xml:13:13-17:29
+26                <action android:name="android.intent.action.MAIN" />
+26-->/Users/tosama/Imageload/app/src/main/AndroidManifest.xml:14:17-69
+26-->/Users/tosama/Imageload/app/src/main/AndroidManifest.xml:14:25-66
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->/Users/tosama/Imageload/app/src/main/AndroidManifest.xml:16:17-77
+28-->/Users/tosama/Imageload/app/src/main/AndroidManifest.xml:16:27-74
+29            </intent-filter>
+30        </activity>
+31    </application>
+32
+33</manifest>
