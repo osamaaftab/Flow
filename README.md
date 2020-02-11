@@ -67,3 +67,15 @@ XML
      app:progress_color="@color/color_100"
      app:progress_startAngle="-90"/>
 ```
+
+References
+====
+[`JakeWharton/DiskLruCache`][1]
+
+[`circular-music-progressbar`][1]
+
+
+
+[1]: https://github.com/JakeWharton/DiskLruCache
+[2]: https://github.com/aliab/circular-music-progressbar
+
